@@ -1,0 +1,15 @@
+---
+title: "First ggplot"
+author: "VZ"
+---
+
+
+Hello! This is our first plot!
+
+```{r}
+library(ggplot2)
+```
+
+Someone check my code
+
+
